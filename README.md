@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm superjun02</h1>
 <h3 align="center">SeoKyeong University Department of Software 4rd year</h3>
 
-<h3 align="left">Connect with me: superjun02@naver.com && superjun024130@gmail.com</h3>
+<h3 align="left">Connect with me: <samll>superjun02@naver.com || superjun024130@gmail.com</samll></h3>
 <p align="left">
 </p>
 
